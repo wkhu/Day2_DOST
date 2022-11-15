@@ -1,0 +1,7 @@
+{
+  "name": "Day2_DOST",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
